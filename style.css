@@ -1,0 +1,155 @@
+nav {
+	padding: 20px;
+  }
+
+
+
+.tableOuter {
+    background: #fff;
+    border-collapse: collapse;
+    border-radius: 0.65em;
+    border: 2px solid #fff;
+    box-shadow: 0px 0px 40px #dedede;
+    color: #000;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    padding: 0.01px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.tableInner {
+    background: #fff;
+	border-collapse: collapse;
+	border-radius: 0.5em;
+	border: 0px solid #fff;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	padding: 0.3em;
+	text-align: center;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.tableOuterProjs {
+    border-collapse: collapse;
+    border-radius: 0.65em;
+    color: #000;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+	margin: 1em;
+    padding: 0.01px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.tableInnerProjs {
+	border-collapse: collapse;
+	border-radius: 0.5em;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	margin: 1em;
+	padding: 0.3em;
+	text-align: center;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.navButton {
+    background: #fff;
+	border-collapse: collapse;
+	border-radius: 0.5em;
+	color: #000;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 2em;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	padding: 1em;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.navButton:hover {
+    background: #000;
+	color: #fff;
+}
+
+.projectButton {
+	border-collapse: collapse;
+	border-radius: 0.5em;
+	color: #000;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 2em;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	padding: 0.3em;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.projectButton:hover {
+    background: #000;
+	color: #fff;
+}
+
+.title {
+	color: #000;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0.04em;
+	padding-top: 13px;
+	text-align: left;
+	vertical-align: text-top;
+	width: 100%;
+}
+
+.intro {
+    color: #000;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	padding-top: 12px;
+	text-align: left;
+	vertical-align: text-top;
+}
+
+.text {
+    color: #000;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+	padding: 3em;
+	text-align: left;
+	vertical-align: text-top;
+}
+
+.myHeading {
+	color: #000;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Helvetica, sans-serif !important;
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: 0.04em;
+	padding-top: 13px;
+	text-align: center;
+	vertical-align: text-top;
+	width: 100%;
+}
